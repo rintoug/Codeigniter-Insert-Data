@@ -11,4 +11,4 @@ Follow below steps to workout this example
 
 **Step 4:** Change the database details in **application/config/database.php**.  
 
-**Step 5:** Try the Url like this ** http://yourdomain.com/index.php/users/register **
+**Step 5:** Try the Url like this **http://yourdomain.com/index.php/users/register**
