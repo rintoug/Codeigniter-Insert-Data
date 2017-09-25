@@ -1,4 +1,5 @@
-# Codeigniter-Insert-Data
+## Insert data in CodeIgniter
+
 This example shows how to insert data in to database by using CodeIgniter
 
 Follow below steps to workout this example
